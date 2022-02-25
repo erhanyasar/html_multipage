@@ -8,3 +8,12 @@
   background-color: white;
   border-color: lightgrey;
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: 20px;
+  width: 100%;
+  padding-left: 10px;
+  background-color: lightblue;
+}
